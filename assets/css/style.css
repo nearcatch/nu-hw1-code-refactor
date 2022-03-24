@@ -75,7 +75,7 @@ main {
     margin-left: 20px;
 }
 
-main > div {
+.tool {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -84,12 +84,12 @@ main > div {
     color: #ffffff;
 }
 
-main > div h2 {
+.tool h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-main > div img {
+.tool img {
     max-height: 200px;
 }    
 
