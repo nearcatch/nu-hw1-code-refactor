@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* header - background and font */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +25,7 @@ header h1 .seo {
     color: #b9b9b9;
 }
 
+/* nav links - padding/margin, font, list */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,15 +43,18 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* default page link color */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* font size for general text */
 p {
     font-size: 16px;
 }
 
+/* background image at top of page */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,22 +64,26 @@ p {
     background-position: center;
 }
 
+/* left float for images in main */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* right float for images in main */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* main page content */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* sections under main */
 .tool {
     margin-bottom: 20px;
     padding: 50px;
@@ -91,8 +100,9 @@ main {
 
 .tool img {
     max-height: 200px;
-}    
+}
 
+/* page sidebar */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -102,24 +112,26 @@ aside {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-}    
+}
 
+/* sections in page sidebar */
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
-}    
+}
 
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
-}    
+}
 
 .benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}    
+}
 
+/* footer - center, set font and size */
 footer {
     padding: 30px;
     clear: both;
