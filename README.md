@@ -2,7 +2,7 @@
 
 ## Final Page
 
-[https://nearcatch.github.io/nu-unit-01-hw/](https://nearcatch.github.io/nu-unit-01-hw/)
+[https://nearcatch.github.io/nu-hw-1-code-refactor/](https://nearcatch.github.io/nu-hw-1-code-refactor/)
 
 ## Sample Image
 
